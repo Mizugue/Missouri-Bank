@@ -1,2 +1,7 @@
-# Missouri-Bank
-Simple program I made for training in Java
+# Bank Missouri
+-----------------------------------------
+-- supports multiple accounts --
+
+- Finance area (Withdraw, Deposit)
+- Account area (Change your password, name)
+-----------------------------------------
